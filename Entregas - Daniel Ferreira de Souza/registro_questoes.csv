@@ -1,0 +1,84 @@
+data,disciplina,topico,total_questoes,acertos,tempo_min,marcado_revisao
+2026-04-25,Língua Portuguesa,LÍN-T01,10,9,34.0,0
+2026-04-25,Língua Portuguesa,LÍN-T01,10,10,58.0,0
+2026-04-25,Língua Portuguesa,LÍN-T01,20,15,42.0,0
+2026-04-26,Legislação Específica,LEG-T01,40,30,38.0,0
+2026-04-26,Direito Constitucional,DIR-T01,22,16,18.0,0
+2026-05-01,Direito Administrativo,DIR-T01,33,29,18.0,0
+2026-05-01,Legislação Específica,LEG-T02,40,34,41.0,0
+2026-05-09,Informática,INF-T01,29,20,20.0,1
+2026-05-10,Direitos Humanos,DIR-T01,19,14,22.0,0
+2026-05-11,Atualidades,ATU-T01,26,17,26.0,1
+2026-05-12,Ciências Exatas,CIÊ-T01,10,7,139.0,1
+2026-05-12,Direito Constitucional,DIR-T02,25,22,19.0,0
+2026-05-13,Legislação Específica,LEG-T03,40,35,58.0,0
+2026-05-14,Língua Estrangeira,LÍN-T01,18,10,58.0,1
+2026-05-14,Língua Estrangeira,LÍN-T01,8,1,14.0,1
+2026-05-14,Língua Estrangeira,LÍN-T01,15,7,46.0,1
+2026-05-15,Direito Processual,DIR-T01,25,19,65.0,0
+2026-05-15,Informática,INF-T02,30,28,28.0,0
+2026-05-17,Legislação Complementar,LEG-T01,25,18,25.0,0
+2026-05-17,Língua Portuguesa,LÍN-T02,10,8,16.0,0
+2026-05-20,Língua Portuguesa,LÍN-T02,20,14,32.0,1
+2026-05-20,Língua Portuguesa,LÍN-T02,10,9,34.0,0
+2026-05-21,Legislação Específica,LEG-T04,53,47,56.0,0
+2026-05-21,Direito Administrativo,DIR-T02,20,16,30.0,0
+2026-05-23,Raciocínio Lógico,RAC-T01,20,17,67.0,0
+2026-06-27,Direito Constitucional,DIR-T03,28,22,31.0,0
+2026-06-28,Direito Constitucional,DIR-T04,26,18,26.0,1
+2026-06-30,Língua Portuguesa,LÍN-T03,1,1,0.23,0
+2026-07-02,Direito Processual,DIR-T02,26,16,35.33,1
+2026-07-08,Informática,INF-T03,30,24,17.23,0
+2026-07-08,Legislação Complementar,LEG-T02,23,19,21.58,0
+2026-07-13,Legislação Específica,LEG-T05,36,29,21.85,0
+2026-07-14,Direito Penal,DIR-T01,26,18,17.73,1
+2026-07-16,Raciocínio Lógico,RAC-T02,15,12,60.02,0
+2026-07-16,Língua Portuguesa,LÍN-T04,10,9,12.45,0
+2026-07-16,Língua Portuguesa,LÍN-T04,10,8,16.93,0
+2026-07-17,Direito Administrativo,DIR-T03,26,18,14.55,1
+2026-07-19,Direito Constitucional,DIR-T04,25,21,13.42,0
+2026-07-21,Direitos Humanos,DIR-T02,20,12,21.67,1
+2026-07-22,Atualidades,ATU-T02,66,50,53.68,0
+2026-07-23,Raciocínio Lógico,RAC-T03,8,6,56.67,1
+2026-07-24,Direito Constitucional,DIR-T05,7,5,7.32,1
+2026-07-26,Legislação Específica,LEG-T06,20,15,22.63,1
+2026-07-28,Raciocínio Lógico,RAC-T03,15,12,53.72,0
+2026-07-28,Informática,INF-T04,30,21,26.12,1
+2026-07-28,Legislação Específica,LEG-T06,20,16,11.55,0
+2026-07-28,Legislação Específica,LEG-T07,19,11,28.33,1
+2026-07-28,Direito Constitucional,DIR-T06,10,7,11.42,1
+2026-08-01,Direito Administrativo,DIR-T04,24,20,24.07,0
+2026-08-01,Legislação Específica,LEG-T08,11,8,9.25,1
+2026-08-02,Legislação Específica,LEG-T09,10,10,1.73,0
+2026-08-04,Legislação Complementar,LEG-T03,22,13,21.02,1
+2026-08-04,Informática,INF-T05,10,9,8.63,0
+2026-08-05,Raciocínio Lógico,RAC-T04,16,9,64.25,1
+2026-08-05,Legislação Específica,LEG-T10,10,10,3.82,0
+2026-08-06,Legislação Específica,LEG-T11,3,2,3.6,1
+2026-08-07,Direito Administrativo,DIR-T05,25,19,23.62,0
+2026-08-09,Direito Penal,DIR-T02,22,16,35.02,0
+2026-08-09,Raciocínio Lógico,RAC-T05,9,5,51.32,1
+2026-08-09,Direito Processual,DIR-T03,20,15,14.15,0
+2026-08-10,Informática,INF-T06,40,32,29.7,0
+2026-08-11,Direitos Humanos,DIR-T03,20,18,16.45,0
+2026-08-11,Direito Administrativo,DIR-T06,25,21,20.88,0
+2026-08-12,Legislação Complementar,LEG-T04,20,15,0.03,0
+2026-08-13,Atualidades,ATU-T03,33,22,28.98,1
+2026-08-13,Língua Estrangeira,LÍN-T02,11,4,13.38,1
+2026-08-13,Língua Estrangeira,LÍN-T02,4,2,3.9,1
+2026-08-13,Direito Administrativo,DIR-T07,30,27,20.85,0
+2026-08-14,Legislação Específica,LEG-T12,13,12,5.58,0
+2026-08-14,Legislação Específica,LEG-T13,14,11,10.55,0
+2026-08-16,Direito Constitucional,DIR-T07,22,13,18.68,1
+2026-08-18,Raciocínio Lógico,RAC-T06,3,2,15.42,1
+2026-08-20,Direito Penal,DIR-T03,15,7,20.83,1
+2026-08-20,Raciocínio Lógico,RAC-T06,11,10,47.75,0
+2026-08-21,Legislação Específica,LEG-T14,3,3,0.05,0
+2026-08-22,Legislação Específica,LEG-T15,7,6,6.12,0
+2026-08-23,Legislação Complementar,LEG-T05,13,7,24.78,1
+2026-08-23,Legislação Complementar,LEG-T05,17,14,17.25,0
+2026-08-24,Direito Constitucional,DIR-T08,11,8,12.07,0
+2026-08-24,Legislação Específica,LEG-T16,16,5,19.4,1
+2026-08-25,Ciências Exatas,CIÊ-T02,16,10,40.98,1
+2026-08-25,Direitos Humanos,DIR-T04,11,6,16.3,1
+2026-08-25,Informática,INF-T07,34,29,20.83,0

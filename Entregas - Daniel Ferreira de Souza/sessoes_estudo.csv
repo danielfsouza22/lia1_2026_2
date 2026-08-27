@@ -1,0 +1,352 @@
+data,disciplina,tipo,inicio_min,fim_min,duracao_min
+2026-04-25,Língua Portuguesa,Não classificado,1082.0,1132.0,50.0
+2026-04-25,Língua Portuguesa,Não classificado,1132.0,1166.0,34.0
+2026-04-25,Língua Portuguesa,Não classificado,1184.0,1246.0,62.0
+2026-04-25,Língua Portuguesa,Não classificado,1248.0,1290.0,42.0
+2026-04-25,Raciocínio Lógico,Não classificado,1343.0,1369.0,26.0
+2026-04-25,Ética,Não classificado,1373.0,1415.0,42.0
+2026-04-26,Ética,Não classificado,901.0,955.0,54.0
+2026-04-26,Legislação Específica,Não classificado,981.0,1025.0,44.0
+2026-04-26,Legislação Específica,Não classificado,1025.0,1063.0,38.0
+2026-04-26,Direito Constitucional,Não classificado,1150.0,1218.0,68.0
+2026-04-26,Direito Administrativo,Não classificado,1281.0,1359.0,78.0
+2026-05-01,Direito Administrativo,Não classificado,1119.0,1137.0,18.0
+2026-05-01,Direito Penal,Não classificado,1260.0,1324.0,64.0
+2026-05-01,Legislação Específica,Não classificado,1324.0,1365.0,41.0
+2026-05-09,Informática,Não classificado,1075.0,1114.0,39.0
+2026-05-10,Legislação Complementar,Não classificado,952.0,1064.0,112.0
+2026-05-10,Raciocínio Lógico,Não classificado,1105.0,1113.0,8.0
+2026-05-10,Atualidades,Não classificado,1115.0,1143.0,28.0
+2026-05-11,Atualidades,Não classificado,1217.0,1256.0,39.0
+2026-05-11,Direito Constitucional,Não classificado,1264.0,1284.0,20.0
+2026-05-12,Direito Constitucional,Não classificado,842.0,869.0,27.0
+2026-05-12,Direito Constitucional,Não classificado,874.0,914.0,40.0
+2026-05-12,Direito Constitucional,Não classificado,931.0,958.0,27.0
+2026-05-12,Ciências Exatas,Não classificado,962.0,1017.0,55.0
+2026-05-12,Ciências Exatas,Não classificado,1037.0,1103.0,66.0
+2026-05-12,Ciências Exatas,Não classificado,1109.0,1127.0,18.0
+2026-05-12,Legislação Específica,Não classificado,1177.0,1212.0,35.0
+2026-05-12,Legislação Específica,Não classificado,1216.0,1255.0,39.0
+2026-05-13,Ciências Exatas,Não classificado,877.0,971.0,94.0
+2026-05-13,Legislação Específica,Não classificado,1005.0,1063.0,58.0
+2026-05-13,Legislação Específica,Não classificado,1067.0,1084.0,17.0
+2026-05-13,Legislação Específica,Não classificado,1153.0,1167.0,14.0
+2026-05-13,Legislação Específica,Não classificado,1177.0,1217.0,40.0
+2026-05-13,Legislação Específica,Não classificado,1281.0,1298.0,17.0
+2026-05-14,Língua Estrangeira,Não classificado,920.0,978.0,58.0
+2026-05-14,Língua Estrangeira,Não classificado,1005.0,1019.0,14.0
+2026-05-14,Língua Estrangeira,Não classificado,1021.0,1067.0,46.0
+2026-05-14,Direito Administrativo,Não classificado,1223.0,1251.0,28.0
+2026-05-15,Direito Administrativo,Não classificado,924.0,948.0,24.0
+2026-05-15,Direito Administrativo,Não classificado,968.0,973.0,5.0
+2026-05-15,Direito Processual,Não classificado,998.0,1063.0,65.0
+2026-05-15,Informática,Não classificado,1101.0,1125.0,24.0
+2026-05-15,Informática,Não classificado,1126.0,1154.0,28.0
+2026-05-15,Direito Processual,Não classificado,1229.0,1271.0,42.0
+2026-05-15,Direito Processual,Não classificado,1276.0,1288.0,12.0
+2026-05-17,Legislação Complementar,Revisão,722.0,749.0,27.0
+2026-05-17,Legislação Complementar,Teoria,812.0,872.0,60.0
+2026-05-17,Legislação Complementar,Questões,888.0,949.0,61.0
+2026-05-17,Língua Portuguesa,Questões,990.0,1002.0,12.0
+2026-05-17,Língua Portuguesa,Questões,1009.0,1025.0,16.0
+2026-05-20,Língua Portuguesa,Questões,1014.0,1048.0,34.0
+2026-05-20,Língua Portuguesa,Questões,1049.0,1081.0,32.0
+2026-05-20,Raciocínio Lógico,Teoria,1102.0,1110.0,8.0
+2026-05-20,Raciocínio Lógico,Teoria,1216.0,1279.0,63.0
+2026-05-20,Raciocínio Lógico,Teoria,1284.0,1290.0,6.0
+2026-05-21,Legislação Específica,Revisão,892.0,945.0,53.0
+2026-05-21,Direito Administrativo,Teoria,970.0,1007.0,37.0
+2026-05-21,Direito Administrativo,Teoria,1018.0,1035.0,17.0
+2026-05-21,Legislação Específica,Teoria,1113.0,1170.0,57.0
+2026-05-21,Legislação Específica,Teoria,1188.0,1213.0,25.0
+2026-05-21,Ética,Teoria,1223.0,1239.0,16.0
+2026-05-21,Ética,Teoria,1243.0,1278.0,35.0
+2026-05-22,Legislação Específica,Questões,913.0,957.0,44.0
+2026-05-22,Direito Administrativo,Questões,981.0,1068.0,87.0
+2026-05-22,Direito Constitucional,Revisão,1101.0,1147.0,46.0
+2026-05-22,Legislação Específica,Questões,1292.0,1304.0,12.0
+2026-05-23,Direito Penal,Teoria,925.0,971.0,46.0
+2026-05-23,Informática,Teoria,989.0,1021.0,32.0
+2026-05-23,Raciocínio Lógico,Questões,1036.0,1103.0,67.0
+2026-05-23,Ciências Exatas,Revisão,1162.0,1192.0,30.0
+2026-05-23,Legislação Complementar,Teoria,1197.0,1244.0,47.0
+2026-05-23,Direitos Humanos,Teoria,1313.0,1379.0,66.0
+2026-05-24,Direitos Humanos,Revisão,888.0,933.0,45.0
+2026-05-24,Direito Administrativo,Teoria,949.0,1033.0,84.0
+2026-05-28,Atualidades,Teoria,927.0,981.0,54.0
+2026-05-28,Língua Estrangeira,Questões,1079.0,1106.0,27.0
+2026-06-01,Legislação Específica,Teoria,1114.0,1137.0,23.0
+2026-06-02,Legislação Específica,Teoria,834.0,876.0,42.0
+2026-06-04,Legislação Específica,Teoria,950.0,960.0,10.0
+2026-06-05,Legislação Específica,Teoria,1045.0,1072.0,27.0
+2026-06-05,Legislação Específica,Questões,1072.0,1107.0,35.0
+2026-06-05,Legislação Específica,Questões,1123.0,1175.0,52.0
+2026-06-16,Direito Constitucional,Teoria,919.0,955.0,36.0
+2026-06-17,Direito Constitucional,Teoria,836.0,872.0,36.0
+2026-06-17,Direito Constitucional,Teoria,894.0,901.0,7.0
+2026-06-19,Direito Constitucional,Teoria,943.0,978.0,35.0
+2026-06-19,Direito Constitucional,Teoria,982.0,1002.0,20.0
+2026-06-27,Direito Constitucional,Teoria,914.0,995.0,81.0
+2026-06-27,Direito Penal,Teoria,1021.0,1050.0,29.0
+2026-06-28,Direito Administrativo,Revisão,1121.0,1163.0,42.0
+2026-06-28,Direito Administrativo,Revisão,1164.0,1190.0,26.0
+2026-06-30,Língua Portuguesa,Questões,1101.53,1101.77,0.23
+2026-06-30,Língua Portuguesa,Teoria,1107.52,1107.62,0.1
+2026-07-01,Direito Processual,Questões,1220.45,1254.97,34.52
+2026-07-01,Direito Processual,Questões,1256.18,1271.82,15.63
+2026-07-02,Direito Processual,Questões,1114.05,1131.17,17.12
+2026-07-02,Direito Processual,Questões,1134.17,1144.92,10.75
+2026-07-02,Direito Processual,Questões,1147.02,1182.35,35.33
+2026-07-08,Informática,Questões,869.85,900.35,30.5
+2026-07-08,Informática,Questões,900.57,917.8,17.23
+2026-07-08,Legislação Complementar,Questões,933.42,972.37,38.95
+2026-07-08,Legislação Complementar,Questões,972.77,994.35,21.58
+2026-07-09,Direito Administrativo,Teoria,865.98,905.68,39.7
+2026-07-09,Direito Administrativo,Teoria,992.8,1015.48,22.68
+2026-07-10,Direito Administrativo,Teoria,1118.28,1133.07,14.78
+2026-07-11,Direito Administrativo,Teoria,963.37,1026.05,62.68
+2026-07-11,Direito Administrativo,Teoria,1032.02,1038.17,6.15
+2026-07-13,Direito Constitucional,Teoria,833.2,874.78,41.58
+2026-07-13,Informática,Teoria,889.93,910.62,20.68
+2026-07-13,Legislação Específica,Teoria,924.4,989.48,65.08
+2026-07-13,Legislação Específica,Anki,1025.55,1037.5,11.95
+2026-07-13,Legislação Específica,Anki,1050.27,1052.2,1.93
+2026-07-13,Legislação Específica,Anki,1075.73,1101.27,25.53
+2026-07-13,Legislação Específica,Questões,1101.55,1123.4,21.85
+2026-07-14,Ética,Teoria,868.7,895.57,26.87
+2026-07-14,Direito Penal,Anki,907.1,949.87,42.77
+2026-07-14,Direito Penal,Anki,1096.97,1115.5,18.53
+2026-07-14,Direito Penal,Questões,1115.75,1133.48,17.73
+2026-07-14,Raciocínio Lógico,Teoria,1305.82,1351.62,45.8
+2026-07-14,Raciocínio Lógico,Anki,1362.27,1396.1,33.83
+2026-07-15,Raciocínio Lógico,Anki,890.72,935.55,44.83
+2026-07-15,Raciocínio Lógico,Revisão,937.03,1031.9,94.87
+2026-07-15,Raciocínio Lógico,Questões,1084.78,1154.98,70.2
+2026-07-16,Raciocínio Lógico,Questões,819.3,879.32,60.02
+2026-07-16,Língua Portuguesa,Revisão,901.85,933.2,31.35
+2026-07-16,Língua Portuguesa,Questões,933.42,945.87,12.45
+2026-07-16,Língua Portuguesa,Questões,946.32,963.25,16.93
+2026-07-16,Legislação Complementar,Revisão,1242.37,1299.22,56.85
+2026-07-17,Direito Administrativo,Anki,983.13,1015.75,32.62
+2026-07-17,Direito Administrativo,Anki,1017.8,1049.13,31.33
+2026-07-17,Direito Administrativo,Questões,1070.92,1085.47,14.55
+2026-07-17,Legislação Específica,Anki,1119.95,1174.17,54.22
+2026-07-18,Raciocínio Lógico,Teoria,1076.77,1135.23,58.47
+2026-07-19,Direito Constitucional,Anki,921.8,941.68,19.88
+2026-07-19,Direito Constitucional,Questões,941.88,955.3,13.42
+2026-07-20,Direito Constitucional,Teoria,855.67,877.42,21.75
+2026-07-20,Legislação Específica,Teoria,883.93,906.7,22.77
+2026-07-20,Legislação Específica,Teoria,936.37,939.87,3.5
+2026-07-20,Legislação Específica,Teoria,951.95,991.48,39.53
+2026-07-20,Legislação Específica,Teoria,1019.93,1061.02,41.08
+2026-07-20,Ciências Exatas,Teoria,1259.58,1305.65,46.07
+2026-07-21,Direitos Humanos,Anki,908.22,964.47,56.25
+2026-07-21,Direitos Humanos,Questões,964.75,986.42,21.67
+2026-07-21,Atualidades,Revisão,1019.12,1060.62,41.5
+2026-07-21,Atualidades,Questões,1114.4,1123.75,9.35
+2026-07-21,Direito Administrativo,Revisão,1159.23,1190.85,31.62
+2026-07-21,Direito Administrativo,Revisão,1267.87,1304.37,36.5
+2026-07-22,Atualidades,Questões,863.18,916.87,53.68
+2026-07-22,Legislação Específica,Anki,936.1,993.23,57.13
+2026-07-22,Legislação Específica,Anki,998.95,999.03,0.08
+2026-07-22,Legislação Específica,Anki,1001.32,1055.35,54.03
+2026-07-22,Língua Estrangeira,Revisão,1068.83,1071.87,3.03
+2026-07-23,Direito Processual,Teoria,858.37,934.8,76.43
+2026-07-23,Raciocínio Lógico,Questões,955.45,1012.12,56.67
+2026-07-23,Raciocínio Lógico,Questões,1140.25,1154.48,14.23
+2026-07-23,Raciocínio Lógico,Questões,1156.95,1165.08,8.13
+2026-07-24,Direito Constitucional,Questões,906.68,914.0,7.32
+2026-07-25,Legislação Específica,Teoria,1080.08,1132.22,52.13
+2026-07-26,Legislação Específica,Anki,771.93,778.82,6.88
+2026-07-26,Legislação Específica,Anki,836.6,907.75,71.15
+2026-07-26,Legislação Específica,Anki,928.32,953.77,25.45
+2026-07-26,Legislação Específica,Questões,953.98,976.62,22.63
+2026-07-26,Legislação Complementar,Teoria,1015.87,1041.87,26.0
+2026-07-27,Legislação Complementar,Teoria,931.52,937.37,5.85
+2026-07-27,Legislação Complementar,Teoria,946.68,1005.23,58.55
+2026-07-27,Direito Penal,Revisão,1046.72,1081.12,34.4
+2026-07-27,Direito Penal,Revisão,1084.85,1137.22,52.37
+2026-07-27,Direito Penal,Revisão,1211.77,1232.7,20.93
+2026-07-28,Raciocínio Lógico,Questões,956.08,1009.8,53.72
+2026-07-28,Informática,Teoria,1073.72,1099.68,25.97
+2026-07-28,Informática,Questões,1109.97,1136.08,26.12
+2026-07-28,Informática,Questões,1150.12,1158.2,8.08
+2026-07-28,Legislação Específica,Anki,1160.58,1187.55,26.97
+2026-07-28,Legislação Específica,Questões,1187.82,1199.37,11.55
+2026-07-28,Legislação Específica,Questões,1214.05,1242.38,28.33
+2026-07-28,Ética,Teoria,1348.75,1368.0,19.25
+2026-07-28,Direito Constitucional,Revisão,1373.02,1391.28,18.27
+2026-07-28,Direito Constitucional,Revisão,1395.38,1416.88,21.5
+2026-07-28,Direito Constitucional,Questões,1417.97,1429.38,11.42
+2026-07-29,Língua Portuguesa,Teoria,45.43,45.48,0.05
+2026-07-29,Língua Portuguesa,Teoria,865.75,865.82,0.07
+2026-07-29,Língua Portuguesa,Teoria,1339.93,1343.33,3.4
+2026-07-30,Direito Constitucional,Teoria,1368.0,1368.2,0.2
+2026-07-31,Ética,Teoria,931.2,983.25,52.05
+2026-07-31,Direito Constitucional,Revisão,1037.0,1057.68,20.68
+2026-07-31,Direito Constitucional,Anki,1129.88,1162.0,32.12
+2026-08-01,Direito Administrativo,Teoria,804.6,870.32,65.72
+2026-08-01,Direito Administrativo,Teoria,878.87,930.85,51.98
+2026-08-01,Direito Administrativo,Questões,937.93,962.0,24.07
+2026-08-01,Língua Portuguesa,Teoria,1106.22,1106.28,0.07
+2026-08-01,Legislação Específica,Teoria,1130.85,1151.92,21.07
+2026-08-01,Legislação Específica,Questões,1152.23,1161.48,9.25
+2026-08-02,Legislação Específica,Teoria,756.05,769.0,12.95
+2026-08-02,Legislação Específica,Teoria,770.37,771.7,1.33
+2026-08-02,Legislação Específica,Questões,772.7,774.43,1.73
+2026-08-02,Direitos Humanos,Teoria,783.8,820.97,37.17
+2026-08-02,Direitos Humanos,Teoria,901.23,944.5,43.27
+2026-08-02,Direitos Humanos,Teoria,952.92,964.42,11.5
+2026-08-02,Legislação Específica,Anki,1015.0,1030.97,15.97
+2026-08-02,Legislação Específica,Revisão,1192.87,1196.87,4.0
+2026-08-02,Direito Constitucional,Teoria,1231.2,1246.48,15.28
+2026-08-02,Direito Constitucional,Teoria,1246.95,1249.82,2.87
+2026-08-02,Língua Portuguesa,Teoria,1275.47,1304.13,28.67
+2026-08-02,Direito Constitucional,Revisão,1304.75,1311.45,6.7
+2026-08-02,Direito Constitucional,Revisão,1330.0,1352.63,22.63
+2026-08-03,Legislação Específica,Revisão,944.98,948.98,4.0
+2026-08-03,Direito Constitucional,Revisão,949.77,957.77,8.0
+2026-08-03,Direito Penal,Teoria,1011.68,1020.33,8.65
+2026-08-03,Direito Penal,Teoria,1184.15,1184.18,0.03
+2026-08-03,Direito Penal,Teoria,1184.42,1198.87,14.45
+2026-08-04,Legislação Específica,Revisão,836.88,841.88,5.0
+2026-08-04,Direito Penal,Teoria,917.95,977.67,59.72
+2026-08-04,Raciocínio Lógico,Teoria,996.12,1015.25,19.13
+2026-08-04,Raciocínio Lógico,Teoria,1026.47,1040.9,14.43
+2026-08-04,Raciocínio Lógico,Questões,1041.18,1047.35,6.17
+2026-08-04,Raciocínio Lógico,Questões,1066.1,1115.35,49.25
+2026-08-04,Informática,Questões,1142.73,1151.37,8.63
+2026-08-04,Legislação Complementar,Questões,1158.28,1179.3,21.02
+2026-08-04,Legislação Complementar,Revisão,1210.3,1230.3,20.0
+2026-08-04,Legislação Específica,Revisão,1231.97,1233.97,2.0
+2026-08-04,Direito Administrativo,Teoria,1365.37,1373.8,8.43
+2026-08-05,Atualidades,Teoria,1063.0,1099.63,36.63
+2026-08-05,Atualidades,Teoria,1101.32,1129.62,28.3
+2026-08-05,Raciocínio Lógico,Questões,1164.2,1228.45,64.25
+2026-08-05,Legislação Específica,Teoria,1304.4,1330.25,25.85
+2026-08-05,Legislação Específica,Questões,1332.0,1335.82,3.82
+2026-08-06,Legislação Específica,Teoria,851.78,887.82,36.03
+2026-08-06,Legislação Específica,Questões,888.3,891.9,3.6
+2026-08-06,Direito Administrativo,Teoria,973.62,1007.97,34.35
+2026-08-06,Direito Administrativo,Teoria,1020.08,1049.3,29.22
+2026-08-06,Direito Administrativo,Teoria,1053.03,1091.33,38.3
+2026-08-07,Direito Administrativo,Teoria,823.75,836.62,12.87
+2026-08-07,Direito Constitucional,Revisão,853.68,854.68,1.0
+2026-08-07,Direito Administrativo,Revisão,868.87,881.87,13.0
+2026-08-07,Direito Administrativo,Questões,882.2,905.82,23.62
+2026-08-07,Legislação Complementar,Teoria,944.53,976.32,31.78
+2026-08-07,Informática,Teoria,993.6,1009.62,16.02
+2026-08-07,Informática,Teoria,1066.45,1109.58,43.13
+2026-08-07,Informática,Teoria,1187.58,1199.82,12.23
+2026-08-08,Legislação Específica,Revisão,643.33,644.33,1.0
+2026-08-08,Direito Constitucional,Revisão,1032.33,1045.33,13.0
+2026-08-08,Direito Constitucional,Revisão,1045.73,1046.58,0.85
+2026-08-08,Raciocínio Lógico,Teoria,1048.73,1057.52,8.78
+2026-08-08,Legislação Específica,Revisão,1058.38,1060.38,2.0
+2026-08-08,Direito Constitucional,Revisão,1060.33,1065.33,5.0
+2026-08-08,Legislação Específica,Revisão,1066.7,1067.7,1.0
+2026-08-09,Ética,Teoria,915.27,943.02,27.75
+2026-08-09,Direito Penal,Questões,946.12,981.13,35.02
+2026-08-09,Raciocínio Lógico,Questões,1015.88,1067.2,51.32
+2026-08-09,Direito Processual,Questões,1129.55,1143.7,14.15
+2026-08-10,Direito Constitucional,Teoria,1235.88,1265.98,30.1
+2026-08-10,Informática,Questões,1271.22,1300.92,29.7
+2026-08-11,Direito Penal,Teoria,849.47,884.75,35.28
+2026-08-11,Direito Penal,Teoria,888.65,905.65,17.0
+2026-08-11,Língua Portuguesa,Teoria,914.47,941.47,27.0
+2026-08-11,Direito Administrativo,Teoria,947.63,968.1,20.47
+2026-08-11,Direito Administrativo,Questões,1116.28,1137.17,20.88
+2026-08-11,Direitos Humanos,Teoria,1247.65,1261.2,13.55
+2026-08-11,Direitos Humanos,Questões,1261.47,1277.92,16.45
+2026-08-11,Direito Administrativo,Revisão,1292.98,1303.98,11.0
+2026-08-11,Direito Administrativo,Revisão,1324.5,1336.15,11.65
+2026-08-12,Ciências Exatas,Teoria,975.55,1010.72,35.17
+2026-08-12,Raciocínio Lógico,Revisão,1154.6,1154.8,0.2
+2026-08-12,Raciocínio Lógico,Revisão,1155.38,1164.1,8.72
+2026-08-12,Legislação Específica,Revisão,1317.05,1327.05,10.0
+2026-08-12,Direito Constitucional,Revisão,1330.82,1336.82,6.0
+2026-08-12,Legislação Complementar,Questões,1346.6,1364.17,17.57
+2026-08-12,Legislação Complementar,Questões,1365.62,1365.65,0.03
+2026-08-13,Atualidades,Questões,989.7,1018.68,28.98
+2026-08-13,Língua Estrangeira,Questões,1020.57,1033.95,13.38
+2026-08-13,Língua Estrangeira,Questões,1097.73,1101.63,3.9
+2026-08-13,Direito Administrativo,Teoria,1119.88,1185.0,65.12
+2026-08-13,Direito Administrativo,Teoria,1308.97,1343.73,34.77
+2026-08-13,Direito Administrativo,Questões,1346.63,1367.48,20.85
+2026-08-14,Legislação Específica,Teoria,894.35,924.42,30.07
+2026-08-14,Legislação Específica,Questões,981.4,986.98,5.58
+2026-08-14,Legislação Específica,Teoria,987.35,987.53,0.18
+2026-08-14,Legislação Específica,Teoria,993.58,1035.65,42.07
+2026-08-14,Legislação Específica,Questões,1036.65,1047.2,10.55
+2026-08-14,Direito Constitucional,Teoria,1139.17,1172.22,33.05
+2026-08-14,Legislação Específica,Revisão,1201.87,1202.87,1.0
+2026-08-14,Direito Administrativo,Revisão,1332.93,1336.93,4.0
+2026-08-14,Direito Administrativo,Revisão,1340.6,1343.6,3.0
+2026-08-14,Legislação Específica,Revisão,1357.15,1361.15,4.0
+2026-08-15,Legislação Específica,Revisão,734.7,736.7,2.0
+2026-08-15,Direito Administrativo,Revisão,736.95,738.95,2.0
+2026-08-15,Legislação Específica,Teoria,1110.4,1116.0,5.6
+2026-08-15,Direito Constitucional,Teoria,1172.8,1201.32,28.52
+2026-08-16,Direito Processual,Teoria,768.9,801.0,32.1
+2026-08-16,Direito Processual,Teoria,862.75,945.97,83.22
+2026-08-16,Legislação Específica,Revisão,977.98,1002.98,25.0
+2026-08-16,Direito Constitucional,Questões,1027.72,1046.4,18.68
+2026-08-16,Legislação Específica,Revisão,1048.7,1052.7,4.0
+2026-08-17,Legislação Específica,Teoria,1128.23,1150.15,21.92
+2026-08-17,Legislação Específica,Teoria,1154.38,1155.27,0.88
+2026-08-17,Direito Constitucional,Teoria,1427.03,1431.47,4.43
+2026-08-17,Legislação Específica,Revisão,1431.22,1433.22,2.0
+2026-08-17,Legislação Complementar,Revisão,1433.37,1434.37,1.0
+2026-08-18,Legislação Complementar,Teoria,881.3,892.08,10.78
+2026-08-18,Legislação Complementar,Teoria,892.35,935.5,43.15
+2026-08-18,Legislação Complementar,Teoria,969.28,995.1,25.82
+2026-08-18,Legislação Específica,Teoria,1019.42,1039.43,20.02
+2026-08-18,Legislação Específica,Teoria,1239.95,1269.7,29.75
+2026-08-18,Raciocínio Lógico,Teoria,1283.45,1288.72,5.27
+2026-08-18,Raciocínio Lógico,Questões,1289.58,1305.0,15.42
+2026-08-18,Direito Constitucional,Teoria,1315.62,1344.02,28.4
+2026-08-18,Direito Constitucional,Teoria,1344.67,1346.02,1.35
+2026-08-19,Informática,Revisão,972.1,973.0,0.9
+2026-08-19,Informática,Revisão,976.45,988.45,19.7
+2026-08-19,Legislação Específica,Revisão,991.35,1011.35,20.0
+2026-08-19,Ética,Teoria,1052.12,1082.82,30.7
+2026-08-20,Raciocínio Lógico,Questões,965.65,1013.4,47.75
+2026-08-20,Informática,Revisão,1067.37,1075.37,8.0
+2026-08-20,Direito Penal,Questões,1077.03,1097.87,20.83
+2026-08-20,Direito Constitucional,Teoria,1129.65,1133.78,4.13
+2026-08-20,Direito Constitucional,Teoria,1138.02,1178.28,40.27
+2026-08-20,Direito Constitucional,Teoria,1191.45,1211.37,19.92
+2026-08-20,Direito Constitucional,Teoria,1271.27,1296.45,25.18
+2026-08-20,Direito Constitucional,Teoria,1297.05,1299.87,2.82
+2026-08-20,Informática,Teoria,1314.98,1336.23,21.25
+2026-08-21,Direito Constitucional,Teoria,902.4,935.17,32.77
+2026-08-21,Informática,Teoria,983.1,1009.4,26.3
+2026-08-21,Direito Administrativo,Teoria,1113.37,1158.77,45.4
+2026-08-21,Direito Administrativo,Teoria,1204.57,1221.95,17.38
+2026-08-21,Legislação Específica,Teoria,1267.67,1274.53,6.87
+2026-08-21,Legislação Específica,Questões,1274.8,1274.85,0.05
+2026-08-21,Legislação Específica,Revisão,1275.68,1277.68,2.0
+2026-08-21,Legislação Específica,Revisão,1277.9,1279.9,2.0
+2026-08-22,Direito Administrativo,Teoria,580.68,625.92,45.23
+2026-08-22,Direito Administrativo,Teoria,644.58,674.7,30.12
+2026-08-22,Direito Administrativo,Teoria,675.02,682.82,7.8
+2026-08-22,Legislação Específica,Teoria,694.2,707.43,13.23
+2026-08-22,Legislação Específica,Questões,707.7,713.82,6.12
+2026-08-22,Direito Penal,Teoria,862.13,913.33,51.2
+2026-08-22,Direito Penal,Teoria,939.77,985.37,45.6
+2026-08-22,Direito Penal,Teoria,1032.3,1057.4,25.1
+2026-08-23,Direito Administrativo,Teoria,742.2,780.15,37.95
+2026-08-23,Raciocínio Lógico,Teoria,867.02,907.7,40.68
+2026-08-23,Raciocínio Lógico,Teoria,1019.07,1024.72,5.65
+2026-08-23,Legislação Complementar,Questões,1063.98,1088.77,24.78
+2026-08-23,Legislação Complementar,Questões,1090.9,1108.15,17.25
+2026-08-24,Direito Constitucional,Questões,967.15,979.22,12.07
+2026-08-24,Legislação Específica,Questões,982.22,1001.62,19.4
+2026-08-24,Atualidades,Revisão,1005.83,1017.83,12.0
+2026-08-24,Direitos Humanos,Teoria,1174.12,1228.6,54.48
+2026-08-25,Direitos Humanos,Questões,559.53,575.83,16.3
+2026-08-25,Ciências Exatas,Questões,588.43,629.42,40.98
+2026-08-25,Informática,Teoria,1113.77,1127.2,13.43
+2026-08-25,Informática,Questões,1128.92,1149.75,20.83
+2026-08-25,Informática,Questões,1152.38,1152.42,0.03
+2026-08-25,Direito Administrativo,Teoria,1195.63,1214.27,18.63
