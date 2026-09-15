@@ -1,0 +1,629 @@
+baralho,disciplina,card,vistas,acertos,erros,seq,quase,seq_quase,ultima,ultima_rodada
+432-embriaguez,Legislação de Trânsito,cc74f901d7,9,5,4,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,592aee5258,6,5,1,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,90f122b8e1,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,2a1c914ae6,7,5,2,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,4db8b34260,6,5,1,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,f380e9aaa8,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,aa1a4f47d7,11,6,5,3,0,0,2026-08-14,2026-08-02
+432-embriaguez,Legislação de Trânsito,ad0e6dfc56,6,5,1,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,a3ec77a663,11,6,5,5,0,0,2026-08-16,2026-08-02
+432-embriaguez,Legislação de Trânsito,fb8849891d,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,ffb985eb46,7,5,2,4,0,0,2026-08-14,2026-08-02
+432-embriaguez,Legislação de Trânsito,f1396b3969,7,5,2,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,95fe776702,14,7,7,3,0,0,2026-08-16,2026-08-02
+432-embriaguez,Legislação de Trânsito,237c531efc,6,5,1,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,1813e14049,6,5,1,5,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,9116caa9d6,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,7ff9835865,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,c07bd3636b,10,5,5,1,0,0,2026-08-16,2026-08-02
+432-embriaguez,Legislação de Trânsito,b86cfd639a,6,6,0,6,0,0,2026-08-02,2026-08-02
+432-embriaguez,Legislação de Trânsito,86172f45c1,6,5,1,5,0,0,2026-08-02,2026-08-02
+teste,Legislação de Trânsito,d2b892c159,1,1,0,1,0,0,2026-08-02,2026-08-02
+teste,Legislação de Trânsito,f5257f15a2,1,1,0,1,0,0,2026-08-02,2026-08-02
+teste-2,Legislação de Trânsito,df52139874,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,4a1d62462e,3,1,2,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,651c4289cc,3,1,2,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,6e21cf807e,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,f73b969ad7,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,3879117bdc,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,d2b892c159,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,029756caf9,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,989a04f821,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,55174d8676,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,150ed3ff52,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,445f55aed6,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,294077b40d,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,f5257f15a2,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,7d4e5d0f30,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,9cdc72a596,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,706e335bb9,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,9308bc5d65,3,1,2,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,a409e31c39,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,7b4c98edb1,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,5d2a9a3bbe,3,1,2,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,f7d3384be6,2,1,1,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,58ab41d5f6,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,bd68068d3a,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,4da45ac6a1,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,9d7d823d69,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,a5b9ae19e7,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,3da77a01e7,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,ecb0557544,1,1,0,1,0,0,2026-08-28,2026-08-28
+teste-2,Legislação de Trânsito,590e702028,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-intermediaria-02-2,Direito Constitucional,5c92980d00,8,6,2,2,0,0,2026-08-14,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,7a48d1316b,12,6,6,2,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,ce00866eae,8,6,2,5,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,2c543b08a1,10,6,4,4,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,ca5012d329,12,5,7,1,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,abf20f5c99,15,6,9,2,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,e6a19e571f,16,6,10,1,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,9001dce474,8,6,2,1,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,d1c5c28933,14,6,8,2,0,0,2026-08-12,2026-08-12
+revisao-intermediaria-02-2,Direito Constitucional,51914fd078,13,6,7,3,0,0,2026-08-12,2026-08-12
+aula-03,Legislação Especial,6979d16c9a,1,0,1,0,0,0,,2026-08-04
+aula-03,Legislação Especial,775e04f040,1,1,0,1,0,0,,2026-08-04
+aula-03,Legislação Especial,0d7e1fa6a0,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,ca7e2212e7,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,e9c184a741,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,06d94301d6,1,1,0,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,8822a94254,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,cefee8d6a6,4,1,3,1,0,0,,2026-08-04
+aula-03,Legislação Especial,162b4bfc3c,4,1,3,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,4b9d674098,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,147e30ad12,4,1,3,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,4a45e9b1b1,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,e6e54839d7,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,cf18a516a0,4,1,3,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,4c5c50f095,4,1,3,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,bac7679061,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,bcc781edd0,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,5d913aee8a,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,49641cc009,2,1,1,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,69e0d9443f,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,8391c041c5,3,1,2,1,0,0,2026-08-04,2026-08-04
+aula-03,Legislação Especial,bbdb5f3685,2,1,1,1,0,0,2026-08-04,2026-08-04
+lei-das-licitacoes-14-133-2021,Direito Administrativo,826a8b84b7,3,3,0,3,0,0,2026-08-14,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,0f1005da10,4,4,0,4,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,fd8792faea,8,2,6,0,0,0,2026-09-11,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,bcc46c5d91,5,4,1,4,0,0,2026-08-15,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,c9a2c378b5,3,1,2,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,1d33c1fd25,3,3,0,3,0,0,2026-08-15,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,8bc2be4e27,3,1,2,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,6e2f7e3f01,3,1,2,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,e987a77a72,2,1,1,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,dda0213eb9,2,1,1,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,af13a624d1,4,1,3,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,19649013a0,2,2,0,2,0,0,2026-08-14,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,0c49875c59,2,1,1,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,0543887da6,4,1,3,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,581b9337c7,2,2,0,2,0,0,2026-08-14,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,924c6839e7,2,2,0,2,0,0,2026-08-14,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,fab16c268c,3,1,2,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,81c5cd656b,2,1,1,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,39753ce10e,2,1,1,1,0,0,2026-08-07,2026-08-07
+lei-das-licitacoes-14-133-2021,Direito Administrativo,8ef4dfca25,7,3,4,0,0,0,2026-09-11,2026-08-07
+revisao-intermediaria-02,,9001dce474,1,1,0,1,0,0,,2026-08-07
+eca-lep-2,Legislação Especial,9299499c72,1,0,1,0,0,0,2026-08-07,
+revisao-cumulativa-01,Direito Constitucional,28346b731c,4,1,3,0,0,0,2026-08-14,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,e93afc0c45,2,1,1,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,adb9218dba,6,1,5,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,e5394e9e25,5,1,4,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,c49fb3d591,2,1,1,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,e6a19e571f,3,1,2,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,942ea71dbb,1,1,0,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,f7422e1851,1,1,0,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,d8e582a4b0,2,2,0,2,0,0,2026-08-14,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,ac51630740,6,2,4,1,0,0,2026-08-14,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,c5b8ef4575,6,0,6,0,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,81eb8594f4,3,1,2,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,e37b7d9f9a,2,1,1,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,d0fb296d5d,2,1,1,1,0,0,2026-08-08,2026-08-08
+revisao-cumulativa-01,Direito Constitucional,f155679f7e,2,1,1,1,0,0,2026-08-08,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,8b861057da,2,0,2,0,0,0,,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,552da106e2,1,0,1,0,0,0,,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,7f0246c6b9,7,3,4,1,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,d4ca8617b9,3,3,0,3,0,0,2026-08-08,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,0a4fd51b08,5,3,2,3,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,64ca82dc15,4,3,1,3,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,c5a55c9f51,6,4,2,2,0,0,2026-08-16,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,138cbf4b4c,3,2,1,2,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,4e4fcd243a,3,3,0,3,0,0,2026-08-15,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,9351718b92,3,3,0,3,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,70379777e0,6,4,2,1,0,0,2026-08-17,2026-08-08
+infracoes-gravidade-01,Legislação de Trânsito,5bdff2141a,3,3,0,3,0,0,2026-08-15,2026-08-08
+infracoes-gravidade-06,Legislação de Trânsito,5e8f85ae67,7,3,4,1,1,0,2026-08-17,
+infracoes-gravidade-06,Legislação de Trânsito,a7350c91d5,6,2,4,1,0,0,2026-08-16,
+infracoes-gravidade-06,Legislação de Trânsito,9c7c71cd2a,6,2,4,1,0,0,2026-08-15,
+infracoes-gravidade-02,Legislação de Trânsito,ad6f0a0466,2,2,0,2,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,52e502410b,7,3,4,1,0,0,2026-08-15,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,8bb436a2e9,6,3,3,3,0,0,2026-08-16,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,57b5a2212b,7,3,4,1,1,0,2026-08-16,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,1bb4d503ed,6,3,3,2,0,0,2026-08-15,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,a2b2b1ae6c,4,3,1,2,0,0,2026-08-16,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,0c6e69a46b,2,2,0,2,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,fa9b9ca4ee,2,2,0,2,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,2b323efcab,2,2,0,2,0,0,2026-08-14,2026-08-08
+infracoes-gravidade-02,Legislação de Trânsito,9e8a8820e4,3,2,1,2,0,0,2026-08-14,2026-08-08
+aula-06-direito-constitucional,Direito Constitucional,7a6f191e1d,3,0,3,0,0,0,2026-08-14,
+aula-06-direito-constitucional,Direito Constitucional,c04fadb029,1,0,1,0,0,0,2026-08-10,
+aula-06-direito-constitucional,Direito Constitucional,1200d4061b,1,0,1,0,0,0,2026-08-10,
+aula-06-direito-constitucional,Direito Constitucional,a25711daa2,1,0,1,0,0,0,2026-08-10,
+aula-06-direito-constitucional,Direito Constitucional,b77f1138e6,2,0,2,0,0,0,2026-08-10,
+aula-06-direito-constitucional,Direito Constitucional,6a154b000d,1,0,1,0,0,0,2026-08-10,
+aula-06-direito-constitucional,Direito Constitucional,66731048e3,1,0,1,0,0,0,2026-08-10,
+meta-13-revisao-direito-administrativo,Direito Administrativo,f23272ea76,1,0,1,0,0,0,,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,cfb6ab60bf,1,0,1,0,0,0,,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,ed145d5d2f,1,1,0,1,0,0,2026-08-11,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,fc37a46134,3,2,1,2,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,a52bc031af,5,2,3,1,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,3705a270c5,3,2,1,2,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,460fb2415d,3,2,1,2,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,d04c5af31e,3,2,1,2,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,279dbf1482,4,2,2,2,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,0f8d06deea,2,1,1,0,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,7a75f80073,5,2,3,1,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,e683e79a01,2,2,0,2,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,61c25fad42,9,3,6,0,0,0,2026-08-26,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,7f02a99108,3,1,2,0,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,125a9f0efe,4,2,2,2,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,040745c376,3,2,1,2,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,0057767c12,3,2,1,2,0,0,2026-08-14,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,1d2796e3c7,3,2,1,2,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,2dd3197b69,5,2,3,1,0,0,2026-08-15,2026-08-11
+meta-13-revisao-direito-administrativo,Direito Administrativo,e8950f29e9,2,1,1,1,0,0,2026-08-11,2026-08-11
+controle-adm-top,,171346052c,4,2,2,1,0,0,2026-08-14,
+revisao-ls-transito-equipamentos-e-sinistrados,,a036b64576,1,0,1,0,0,0,,
+revisao-ls-transito-equipamentos-e-sinistrados,,1dd7e3b079,1,0,1,0,0,0,,
+revisao-ls-transito-equipamentos-e-sinistrados,,647f51fd51,1,0,1,0,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,9e612cdc54,5,2,3,2,0,0,2026-08-14,
+revisao-ls-transito-30,Legislação de Trânsito,7ad62c750f,4,2,2,2,0,0,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,e79e8a3752,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,3e77545386,3,1,2,0,0,0,2026-08-14,
+revisao-ls-transito-30,Legislação de Trânsito,d9bdf63a4b,5,2,3,2,0,0,2026-08-14,
+revisao-ls-transito-30,Legislação de Trânsito,9626b9e469,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,c3b6ca0ef4,9,2,7,1,0,0,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,88091f8d73,3,1,2,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,55f83eb66b,5,2,3,2,0,0,2026-08-17,
+revisao-ls-transito-30,Legislação de Trânsito,e6071a5544,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,31a1609f63,5,1,4,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,7ef158e451,6,1,5,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,24f6e7e284,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,2e3901b611,3,3,0,3,0,0,2026-08-17,
+revisao-ls-transito-30,Legislação de Trânsito,691571e14f,2,2,0,2,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,88c2370e21,3,2,1,2,0,0,2026-08-17,
+revisao-ls-transito-30,Legislação de Trânsito,d1fcd7dee0,3,2,1,2,0,0,2026-08-17,
+revisao-ls-transito-30,Legislação de Trânsito,b24191fae9,3,2,1,2,1,1,2026-08-17,
+revisao-ls-transito-30,Legislação de Trânsito,aaf48b0aee,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,f8d514c26d,2,1,1,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,89e9996824,2,2,0,2,0,0,2026-08-14,
+revisao-ls-transito-30,Legislação de Trânsito,377ad0554a,6,3,3,2,0,0,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,44196c53bf,4,2,2,1,0,0,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,7acd426b12,4,2,2,2,1,1,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,315a576db2,5,3,2,2,0,0,2026-08-16,
+revisao-ls-transito-30,Legislação de Trânsito,b9182f63b3,2,2,0,2,0,0,2026-08-14,
+revisao-ls-transito-30,Legislação de Trânsito,677f8ebd96,3,2,1,2,1,1,2026-08-15,
+revisao-ls-transito-30,Legislação de Trânsito,77f309017e,4,1,3,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,5b8e0a34f6,1,1,0,1,0,0,,
+revisao-ls-transito-30,Legislação de Trânsito,ccf214cfc2,3,2,1,1,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,e45b3a417a,2,1,1,0,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,9fbd2cd2e3,2,2,0,2,0,0,2026-08-16,
+infracoes-gravidade-09,Legislação de Trânsito,be83676419,7,3,4,1,1,0,2026-08-16,
+infracoes-gravidade-09,Legislação de Trânsito,92522d1d32,2,2,0,2,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,df4e0409b4,6,3,3,2,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,bb0c7ca475,7,2,5,1,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,8911c77912,2,2,0,2,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,ac4ef01078,2,2,0,2,0,0,2026-08-17,
+infracoes-gravidade-09,Legislação de Trânsito,24039b7a2d,4,2,2,1,0,0,2026-08-16,
+infracoes-gravidade-09,Legislação de Trânsito,b1fde3a4b5,2,2,0,2,0,0,2026-08-16,
+revisao-ls-2-meta-14,Legislação de Trânsito,e1d617ad9d,1,0,1,0,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,e419b13b74,6,2,4,1,2,1,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,c765c77b0b,5,1,4,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,33fd153187,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,9eb3046cd8,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,87ce831575,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,abd31547bd,3,2,1,1,2,1,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,69c12e37f5,1,1,0,1,1,1,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,1d1a4296c8,5,2,3,1,1,0,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,1d1d713594,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,8455c1f5af,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,a8b7a0e438,3,1,2,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,4d02670a2d,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,11a2725b09,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,065da03047,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,2a5ce91bd6,4,1,3,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,d247698b57,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,1c1b56edd8,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,e8020b2d89,4,2,2,1,1,0,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,73ee91490a,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,e83eee7515,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,ae91005445,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5c08f22545,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,877257b8fe,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,2776e20575,4,2,2,1,1,0,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,a8cd026092,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,74ef9eb306,5,1,4,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5216ed401f,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,f08d81ec1e,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5b62d0c02b,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5240c520f7,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,70338599ff,4,1,3,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,e2e3880fb5,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,ea5a0e71c9,2,2,0,2,1,1,2026-08-17,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,f60d161038,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5a77a4aa58,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,27ff4f97ee,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,c840fe2fdf,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,d300e6a8bf,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,4f0b0773fc,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,69ee97e002,1,1,0,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,ab4d0b013f,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,5f9888043c,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,95d8dd2c8e,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,da07e0911f,3,1,2,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,df60d8dd00,1,1,0,1,1,1,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,c0e43df0b2,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,ee7e3436e5,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,b8cf90f7ae,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,8afc8963d8,2,1,1,1,0,0,2026-08-16,2026-08-16
+revisao-ls-2-meta-14,Legislação de Trânsito,05f3e5ebde,1,1,0,1,0,0,2026-08-16,2026-08-16
+aula-08-direito-administrativo,Direito Administrativo,c89c4f79b9,2,1,1,0,1,0,2026-09-01,
+aula-08-direito-administrativo,Direito Administrativo,cc835684ae,1,0,1,0,0,0,2026-09-01,
+aula-04-legislacao-especial,Legislação Especial,b7ecfaba67,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,33bdc6af34,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,4bdcf6bb97,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,e3fc3a337f,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,13705dcd7c,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,8f5a1b89e0,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,1ef0685883,3,1,2,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,b417d714cb,1,1,0,1,0,0,2026-08-17,2026-08-17
+aula-04-legislacao-especial,Legislação Especial,1572cdd6e4,1,1,0,1,0,0,2026-08-17,2026-08-17
+revisaoaula0030405,Informática,5aa2d40838,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,75ba4625d2,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,3dbc61e6f5,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,7aebc10f65,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,b5b4bd7116,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,96c741ec62,3,1,2,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,45476ca506,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,f5ec5639ad,1,1,0,1,1,1,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,c1dd4ea566,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,54f179e4e2,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,97a2ff4b12,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,7c74e7ea55,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,ffe6231ba4,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,2c77b3b7bd,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,1cbe7d35f8,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,98d636091e,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,e0783aaae3,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,8ad3a4832e,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,4855db456c,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,a13cc0aa31,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,105df35bf7,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,43bc4b12b0,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,49bf73cbf5,1,0,1,0,0,0,2026-08-19,2026-08-19
+revisaoaula0030405,Informática,d0b92e19f6,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,8d6a59e0f0,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,5242a10c02,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,85d3426eb4,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,9adfa91ef6,3,1,2,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,c5bfb94bb6,4,0,4,0,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,049c80763d,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,d4214f27b3,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,4c74021dc3,3,1,2,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,371b6f50a9,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,2f60d07886,3,1,2,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,782955a491,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,62c2a2281e,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,fc6af5e582,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,385ec3029e,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,625c332af3,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,7bb075cc23,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,0b40faadc0,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,784971ec05,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,73bd1a9833,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,34fff97de8,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,97bc07ef39,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,7fcdcbe5a0,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,1d51ef8f82,3,1,2,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,3130e6b6fb,2,1,1,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,fb0923892e,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,46213725e3,1,1,0,1,0,0,2026-08-19,2026-08-19
+revisaoinf1908,Legislação de Trânsito,67300e64f1,1,1,0,1,0,0,2026-08-19,2026-08-19
+inf,Informática,c2f37e43a2,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,463a48ad8b,1,1,0,1,1,1,2026-08-20,2026-08-20
+inf,Informática,4699c75f7a,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,e9c093e754,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,80454a0d99,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,48024f9869,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,c6a94a704c,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,182c85784d,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,9a87c0adfe,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,052bf28533,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,4cc65c0d56,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,05170f83d9,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,e7866ce907,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,41da2a10ff,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,5bcac1523b,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,3980548fcf,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,b4f0921b63,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,5a81125dc1,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,99718dc01f,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,ac6b92fe59,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,001da8e65d,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,7d01eb1195,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,f2ad79ba28,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,2b920d0b60,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,857442ded7,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,75ab78e03c,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,1b5221b88a,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,81a936868c,2,1,1,1,0,0,2026-08-20,2026-08-20
+inf,Informática,12d99b9fcf,1,1,0,1,0,0,2026-08-20,2026-08-20
+inf,Informática,7f755834eb,1,1,0,1,0,0,2026-08-20,2026-08-20
+dc06,Direito Constitucional,e8c1f66ba1,1,0,1,0,0,0,2026-08-21,
+dc06,Direito Constitucional,65dda8270c,1,0,1,0,0,0,2026-08-21,
+infracoes-gravidade-03,Legislação de Trânsito,2257fb3501,3,2,1,2,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,79f5cd3409,3,1,2,0,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,1a9ed362de,3,2,1,1,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,84ea1ef412,3,2,1,2,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,1ff5e7e072,7,2,5,1,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,ab5d47f082,2,2,0,2,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,2da45b9ca6,2,2,0,2,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,2fd6e0f008,2,2,0,2,0,0,2026-08-21,2026-08-21
+infracoes-gravidade-03,Legislação de Trânsito,5d8bfb47a1,3,2,1,2,0,0,2026-08-21,2026-08-21
+revisaogeo,Geopolítica Brasileira,607f234916,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,396fa9ad45,2,1,1,1,1,1,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,b5c005898c,2,1,1,1,1,1,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,9abcc249cb,1,1,0,1,1,1,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,3a6ac7e005,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,dd87a4599e,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,62e37fc370,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,a481d7b490,3,1,2,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,fc22b21576,1,1,0,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,3516e88433,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,d7cfa71954,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,93e459ec3d,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,7aeb2bf63b,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,5a013b0a28,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,b772969eb4,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,78ef8d5287,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,1c5803d052,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,b7ff68c058,2,1,1,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,3ece5d8694,3,1,2,1,0,0,2026-08-24,2026-08-24
+revisaogeo,Geopolítica Brasileira,0e98cedd0d,1,1,0,1,0,0,2026-08-24,2026-08-24
+meta-5-revisao-ativa,Legislação Especial,791ffc2d79,3,1,2,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,ab95cb5a0c,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,0e642adf70,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,f7b6ebd2b6,1,1,0,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,85272d07ca,3,0,3,0,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,f3f51515c6,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,ebbe148052,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,29a0e612fd,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-5-revisao-ativa,Legislação Especial,526dafd7bb,3,1,2,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa,Direito Administrativo,256ac68928,2,1,1,1,1,1,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,28c34771f2,2,1,1,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,0ca3349b0c,1,1,0,1,1,1,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,20439f74f5,2,1,1,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,e0be8797ed,1,1,0,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,2bb6bed327,5,0,5,0,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,56ebaad56a,1,1,0,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,0836ac8cda,3,1,2,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,fc5ddde81b,1,1,0,1,0,0,2026-08-26,2026-08-26
+meta-16-revisao-ativa,Direito Administrativo,e2923e9987,1,1,0,1,0,0,2026-08-26,2026-08-26
+meta-13-revisao-ativa,Legislação de Trânsito,17936fbd86,1,0,1,0,0,0,2026-08-26,
+meta-13-revisao-ativa,Legislação de Trânsito,3625b78fd6,1,0,1,0,0,0,2026-08-26,
+meta-13-revisao-ativa,Legislação de Trânsito,a778ba8098,1,0,1,0,0,0,2026-08-26,
+baralho-direito-constitucional,Direito Constitucional,f18dd03bff,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,3d85088c35,1,0,1,0,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,79bc320690,1,1,0,1,1,1,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,83073121ab,1,0,1,0,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,76270c6ba6,1,0,1,0,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,fc66793f4e,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,db8bd3b902,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,9563a74866,3,2,1,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,7b00d05abe,3,2,1,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,8c528ae68a,6,3,3,2,1,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,dfd163f75e,3,2,1,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,bbfc8980d9,5,2,3,2,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,796e5b352a,2,2,0,2,1,1,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,2de62c959b,4,3,1,3,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,0c7d03590e,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,db31b02503,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,fa0d2a8aaa,4,2,2,2,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,246e0ca955,3,2,1,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,d6a8452392,6,2,4,2,1,1,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,8a184efc39,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,09e67883f4,5,1,4,0,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,94708e3e7c,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,b91fa6fbe9,3,2,1,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,ed287f4c2f,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,ff6f7182ea,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,3c3d609bbe,2,2,0,2,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,19b31c199f,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,c3a425ea2f,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,70084a9a4f,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,8503184c1e,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,49ce5b5008,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,1bee2416dd,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,f49b773ea3,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,dc4d50adfe,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,1ca1ecb9c1,5,1,4,0,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,1816c06427,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,62d9a0eaaf,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,ad45d571a4,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,078afe4d5a,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,fa4c034929,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,6dc329e7a6,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,f38c41730d,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,e42568cd49,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,a09bb39dde,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,141acb058f,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,6874e7d148,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,a96ed4713c,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,05edbaaf43,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,fcf1322845,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,b128681db1,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,259728c255,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,d1805ba8b3,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,d929052955,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,85bbef1e25,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,cc921ef815,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,047fb75aca,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,f1dc9caae2,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,e96d956909,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,68b637748b,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,021347e7c4,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,440d0c5a40,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,d88463185e,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,a353e75059,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,eda8a77782,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,b5821ecdce,1,1,0,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,a876ec8ddc,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,a4d53816a4,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,9be8e518cd,2,1,1,1,0,0,2026-08-27,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,9b5ed25b54,5,1,4,0,0,0,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,f34be62994,5,2,3,2,1,1,2026-09-08,2026-08-27
+baralho-direito-constitucional,Direito Constitucional,3236de2e50,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,1f7da39518,7,1,6,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,f791b41245,3,1,2,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,0ca3349b0c,6,1,5,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,314b5f35cd,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,1f3b408768,6,1,5,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,bca2dfdd1f,3,1,2,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,08dbbad8aa,2,1,1,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,7eada4d1f9,1,1,0,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,959bb00075,1,1,0,1,0,0,2026-08-27,2026-08-27
+meta-16-revisao-ativa-2,Direito Administrativo,81b744ec1b,1,1,0,1,0,0,2026-08-27,2026-08-27
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,c52dd803b9,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,1dea08ba3e,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,3d1f692520,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,17a14b01cf,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,0f4214577b,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,9ad8fc6459,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,bfd325ad47,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,9df7e5d73d,3,1,2,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,68f94d69fa,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,7ba2c311ab,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,f0383fc63a,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,daa06a64f8,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,b916036bbe,5,1,4,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,9e38f7ea8a,5,1,4,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,c10011b44a,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,9a830a1a98,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,edffdccf93,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,2bef800b08,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,38231e8d8e,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,f885ea0e62,3,1,2,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,b2f60565c0,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,e2af65113f,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,a0dbdd10a9,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,75bea762ca,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,a9d37bb410,4,1,3,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,b91143739f,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,53eae418ca,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,108e4d818e,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,757232a763,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,0c69d837d8,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,5e54cca451,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,d4675045a2,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,c05ec7fd21,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,6e87da6bfe,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,662cf3b90c,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,f9933635ad,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,fbca3cc54d,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,4110810c22,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,c9600bd1a6,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,31802a624f,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,8ef6ed528b,4,0,4,0,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,a92f3140c9,4,1,3,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,579de3e20d,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,186bae0490,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,8077e20078,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,3aeef0c6ae,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,146ffa4f7f,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,bd89a585fd,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,e66dbd8ea2,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,a6febd233a,4,1,3,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,de8272c779,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,b29b0e2a00,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,e947fd2691,1,1,0,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,59cd3e5dfa,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,15c6621b04,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,4702c02c29,2,1,1,1,0,0,2026-08-28,2026-08-28
+revisao-cumulativa-meta-16-n13,Legislação de Trânsito,714566ee7a,2,1,1,1,0,0,2026-08-28,2026-08-28
+aula-16-legislacao-de-transito,Legislação de Trânsito,d91324c89b,1,0,1,0,0,0,2026-08-28,
+teste-3,Direito Constitucional,72d049eb16,4,1,3,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,c6f5c9f0da,2,1,1,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,0b12c78595,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,619cc1c542,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,0d26d8e2aa,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,5864e6a837,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,692a8e4762,3,1,2,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,acd190f3a7,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,062c69e2b7,4,1,3,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,edd43c5f3d,3,1,2,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,e40becd3c6,2,1,1,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,cc4148a2ab,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,2645009d82,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,3d41dbb924,2,1,1,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,702d4feefa,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,225a49aa37,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,8751fec8df,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,ea92590927,1,1,0,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,aeb1e2954d,3,1,2,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,d1b2597f3f,3,1,2,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,2f213c8860,2,1,1,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,b80430eb53,3,1,2,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,8d8b171bf4,2,1,1,1,0,0,2026-08-29,2026-08-29
+teste-3,Direito Constitucional,46e1505593,2,1,1,1,0,0,2026-08-29,2026-08-29
+aula-09-lingua-portuguesa,Língua Portuguesa,d3b2a41a75,1,0,1,0,0,0,2026-09-01,
+aula-09-lingua-portuguesa,Língua Portuguesa,c73edf1063,1,1,0,1,1,1,2026-09-01,
+aula-09-lingua-portuguesa,Língua Portuguesa,1e30aee9a5,1,1,0,1,1,1,2026-09-01,
+aula-03-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,322789a64a,3,1,2,0,0,0,2026-09-02,2026-09-02
+aula-03-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,f101150859,2,1,1,1,0,0,2026-09-02,2026-09-02
+aula-02-direito-processual-penal,Direito Processual Penal,766bc89fe8,1,0,1,0,0,0,2026-09-04,
+revisao-lingua-portuguesa,Língua Portuguesa,b4954a8118,2,1,1,1,0,0,2026-09-04,2026-09-04
+revisao-lingua-portuguesa,Língua Portuguesa,70b54584e5,1,1,0,1,0,0,2026-09-04,2026-09-04
+revisao-lingua-portuguesa,Língua Portuguesa,f983272429,2,1,1,1,0,0,2026-09-04,2026-09-04
+revisao-lingua-portuguesa,Língua Portuguesa,bd93b5edfe,1,1,0,1,0,0,2026-09-04,2026-09-04
+revisao-lingua-portuguesa,Língua Portuguesa,7de80d8404,2,1,1,1,0,0,2026-09-04,2026-09-04
+revisao-lingua-portuguesa,Língua Portuguesa,2a102bfc01,1,1,0,1,0,0,2026-09-04,2026-09-04
+meta-3-revisao-ativa,Legislação Especial,a9b45c8740,4,1,3,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,51c4b07724,1,1,0,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,ceef4a3f2b,3,1,2,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,44a675d103,3,1,2,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,e68293629c,2,0,2,0,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,8abbbe5ec5,2,1,1,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,a4d209951e,2,1,1,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,648091ce38,2,1,1,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,9bf53f0a07,1,1,0,1,0,0,2026-09-06,2026-09-06
+meta-3-revisao-ativa,Legislação Especial,36a89a79c2,1,1,0,1,0,0,2026-09-06,2026-09-06
+aula-09-direito-administrativo,Direito Administrativo,3eab3e144f,1,0,1,0,0,0,2026-09-07,
+aula-09-direito-administrativo,Direito Administrativo,6de1524bfe,1,0,1,0,0,0,2026-09-07,
+aula-09-responsabilidade-civil-e-regresso,Direito Administrativo,fd99c4292c,1,0,1,0,0,0,2026-09-07,
+aula-09-responsabilidade-civil-e-regresso,Direito Administrativo,5cd1f3980f,1,0,1,0,0,0,2026-09-07,
+infracoes-gravidade-11,Legislação de Trânsito,bd13306a9c,1,0,1,0,0,0,2026-09-08,
+aula-13-deveres-proibicoes-e-acumulacao,Direito Administrativo,ad2b9375ee,1,1,0,1,0,0,2026-09-11,
+aula-13-deveres-proibicoes-e-acumulacao,Direito Administrativo,41336ab90c,1,0,1,0,0,0,2026-09-11,
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,fb6c2cfa52,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,47edd711ad,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,a6358b4cf3,2,1,1,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,6952b6e9f2,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,022498654c,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,5f9234783a,3,1,2,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,072242631f,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,945e979c35,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,2c5f53590e,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,49d42aa4df,1,1,0,1,1,1,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,e694049397,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,76ce526fa8,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,38c59eba8c,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,ed5e7bf4fc,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,b7e0e8725d,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,343d8780fb,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,3420feb116,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,a02a0df761,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,1234cd8eca,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,1db4a32d81,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,25cb73b9b7,1,1,0,1,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,1828555498,1,0,1,0,0,0,2026-09-12,2026-09-12
+aula-04-direitos-humanos-e-cidadania,Direitos Humanos e Cidadania,6ce9bef90a,1,1,0,1,0,0,2026-09-12,2026-09-12
